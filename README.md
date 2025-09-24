@@ -89,18 +89,3 @@ Mumbai
 
 Krupali – WeatherApp Developer
 ---
-## 🌦️ WeatherApp
-
-This project fetches real-time weather data for a given city using the WeatherAPI
- and reads it aloud using Microsoft’s built-in Text-to-Speech engine (pywin32).
-
----
-
-## 🚀 Features
-
-- Fetches current weather data (temperature in Celsius)
-- Uses WeatherAPI for accurate results
-- Reads the weather aloud using Windows TTS
-- User-friendly input for any city name
-
----
